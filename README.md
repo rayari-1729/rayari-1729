@@ -2,18 +2,19 @@
 Hi, I'm Aritra ROY!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 <h3 align="center">@rayari-1729</h3> 
- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
- <br />
-<br />
+
 
 ## 🎓 Studying
   - M.tech in Machine Learning and Computing  at Indian Institute of Space Science and Technology, Kerala - India.
+  
+ <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+ <br />
+<br />  
 
 ## 👀 I’m interested in
   - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
-  - Computational Neuroscience, Brain-Computer Interfaces
-  - AI Ethics, Data Security, Cryptography  
+  - Computational Neuroscience, Brain-Computer Interfaces 
   - Advanced Statistical Learning Theory, Optimization, Graphical Modeling
   - Big Data Analytics, High Performance Computing, Distributed Systems
   - Quantum Computing
@@ -49,6 +50,6 @@ Hi, I'm Aritra ROY!
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/LinkedIN.svg" alt="Rishi Dey Chowdhury | LinkedIn" width="50px"/></a>
-<a href="mailto: @gmail.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Gmail.svg" alt="Aritra Roy | Gmail" width="50px"/></a>
+<a href="mailto: rayari1729@gmail.com"><img align="left" src="https://raw.githubusercontent.com/RishiDarkDevil/RishiDarkDevil/main/SVG/Color/Gmail.svg" alt="Aritra Roy | Gmail" width="50px"/></a>
 
 
