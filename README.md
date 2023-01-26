@@ -12,11 +12,11 @@ Hi, I'm Aritra ROY!
 <br />  
 
 ## 👀 I’m interested in
-  - Data Science, Machine Learning, Deep Learning, Reinforcement Learning 
+  - Data visualization-cleaaning, Machine Learning, Deep Learning, Reinforcement Learning 
   - Image Processing, Computer Vision, Natural Language Processing
-  - Computational Neuroscience, Brain-Computer Interfaces 
-  - Advanced Statistical Learning Theory, Optimization, Graphical Modeling
+  - Statistical Analysis, Optimization, Graphical Modeling
   - Big Data Analytics, High Performance Computing, Distributed Systems
+  - Computational Neuroscience, Brain-Computer Interfaces
   - Quantum Computing
  
 ## 🌱 I’m currently learning 
