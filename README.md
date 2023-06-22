@@ -12,7 +12,7 @@ Hi, I'm Aritra ROY!
 <br />  
 
 ## 👀 I’m interested in
-  - Genarative Adversarial Network (GAN), Machine Learning, Deep Learning, Reinforcement Learning 
+  - Genarative Adversarial Network (GAN), Machine Learning, Deep Learning
   - Image Processing, Computer Vision, Natural Language Processing
 
  
