@@ -16,11 +16,11 @@ Hi, I'm Aritra ROY!
   - Image Processing, Computer Vision, Natural Language Processing
 
  
-## 🌱 I’m currently learning 
+## 🌱 I’m currently working and learning 
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
-  - Quantum Computing
+
    
 
 ## 🛠️ My Favorite Tools
