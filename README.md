@@ -12,14 +12,14 @@ Hi, I'm Aritra ROY!
 <br />  
 
 ## 👀 I’m interested in
-  - Genarative Adversarial Network (GAN), Machine Learning, Deep Learning
-  - Image Processing, Computer Vision, Natural Language Processing
+  - Graphical Neural Network, Graph-LLM 
+  - Natural Language Processing, Deep Learning 
 
  
 ## 🌱 I’m currently working and learning 
-  - Deep Learning
-  - Computer Vision
-  - Natural Language Processing
+  - Vehicle Trajectory Prediction 
+  - LLM-Chatbot
+  - GNN
 
    
 
