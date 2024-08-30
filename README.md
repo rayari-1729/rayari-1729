@@ -3,22 +3,34 @@ Hi, I'm Aritra Roy!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> 
 <h3 align="center">@rayari-1729</h3> 
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Optimization+%26+Quantization;Machine+Learning+;Deep+Learning+;Computer+Vision+;Natural+language+Processing+/></a>
+</p>
 
-## 🎓 Studying
-  - M.tech in Machine Learning and Computing  at Indian Institute of Space Science and Technology, Kerala - India.
+## 👨‍💼 Current Role 
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+- Working as a **Software Engineer** specializing in **AI Optimization and Quantization**.
+- My work focuses on deploying AI models on hardware by developing custom interconnect kernels and optimizing deep learning models for efficient execution on specific hardware platforms. This involves using cutting-edge quantization techniques and optimization algorithms to enhance model performance while ensuring scalability and compatibility with various hardware architectures.
+
+<br clear="all"/>> 
+
+
+## 🎓 Education  
+  - M.tech in Machine Learning and Computing  at Indian Institute of Space Science and Technology, Kerala - India
+  - M.Sc in Mathematics at Banaras Hindu University, Varanasi
   
- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
- <br />
-<br />  
 
 ## 👀 I’m interested in
-  - Graphical Neural Network, Graph-LLM 
+  - AI Research
+  - Computer Vision
   - Natural Language Processing, Deep Learning 
 
  
 ## 🌱 I’m currently working and learning 
-  - Vehicle Trajectory Prediction 
-  - LLM-Chatbot
+  - Quantization of AI Models
+  - Hardware-Specific Deployment
+  - Quantative Analysis
   - GNN
 
    
@@ -36,11 +48,11 @@ Hi, I'm Aritra Roy!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/PyTorch%20-%23DC143C.svg?logo=PyTorch&logoColor=white"></a>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
+    <a href="#"><img alt="HuggingFacce" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn%20-%23C2DFFF.svg?logo=scikit-learn&logoColor=blue"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
